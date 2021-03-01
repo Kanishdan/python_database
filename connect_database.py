@@ -7,3 +7,4 @@ mycursor.execute("select * from user")
 result = mycursor.fetchall()
 for i in result:
       print(i)
+print("kanishdan")
